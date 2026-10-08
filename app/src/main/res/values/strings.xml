@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Listener</string>
+    <string name="listening">Listening</string>
+    <string name="neural_interface">Neural Interface</string>
+    <string name="autonomous_cognition">Autonomous cognition online</string>
+</resources>
